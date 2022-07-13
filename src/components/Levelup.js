@@ -69,7 +69,7 @@ const Levelup = ({
             ></div>
 
             <h1 className=" text-white absolute  right-0 -top-8 bottom-0 font-bold  ">
-              {remainingXP.toFixed(0)}/{stats.requiredXP.toFixed(0)}
+              {remainingXP}/{stats.requiredXP}
             </h1>
           </div>
         </div>
